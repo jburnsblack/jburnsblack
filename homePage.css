@@ -1,0 +1,33 @@
+body {
+    font-family: Helvetica ,sans-serif ;
+    background-color: darkred;
+
+}
+/*
+Header at top of page
+ */
+header, header:link, header:visited {
+    background-color: black;
+    border-top: white solid 2px;
+    border-bottom: white solid 2px;
+    text-decoration: none;
+    color: white;
+    line-height: 100px;
+    font-size: 72px;
+    padding: 0;
+    position: fixed;
+    top: 1px;
+    left: 0;
+    width: 100%;
+
+}
+
+.mainNav {
+    
+    flex-wrap: nowrap;
+
+
+
+
+
+}
